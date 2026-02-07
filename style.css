@@ -1,0 +1,503 @@
+.zenologo {
+    margin-left: 25rem;
+    display: inline-block;
+    position: relative;
+}
+
+
+.number2 {
+    margin-top: 1.7rem;
+    margin-left: 0.8rem;
+    position: relative;
+}
+.contact {
+    display: flex;
+}
+.insta {
+    margin-top: 1.5rem;
+    margin-left: 0.3rem;
+    position: relative;
+}
+body {
+    background-image: url(/123.png);
+    overflow-x: block;
+}
+
+
+.banner {
+    z-index: 0;
+    margin-left: 5rem;
+    position: absolute;
+    margin-top: -2.2rem;
+
+}
+
+.banner2 {
+   position: absolute;
+   margin-top: -2.2rem;
+   margin-left: -26rem;
+}
+@font-face {
+    src: url(/StretchPro.otf);
+    font-family: font1;
+}
+
+.logotybe {
+   color: white;
+   margin-left: 41rem;
+   margin-top: 3.5rem;
+}
+
+.devby {
+    color: white;
+     opacity: 0.90;
+
+}
+
+.zdes {
+    margin-top: -4rem;
+    margin-left: 20rem;
+    position: absolute;
+}
+
+hr {
+    opacity: 0.50;
+}
+
+.Developed {
+    margin-top: 20rem;
+    margin-left: 30rem;
+}
+
+
+hr {
+    margin-top: 200rem;
+}
+.zxz {
+    margin-left: 30rem;
+    margin-top: 186rem;
+    position: absolute;
+}
+
+.logo2 {
+    position: absolute;
+    border-radius: 30px;
+    margin-left: 37rem;
+    margin-top: 10rem;
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s;
+    z-index: 999;
+}
+
+.modal:target {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.modal-img {
+    max-width: 90%;
+    max-height: 90%;
+}
+
+.close {
+    position: absolute;
+    bottom: 30px;
+    background: #111;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 16px;
+    width: 70px;
+    height: 30px;
+}
+
+.logo3 {
+        position: absolute;
+    border-radius: 30px;
+    margin-left: 58rem;
+    margin-top: 10rem;
+}
+
+.logo5 {
+        position: absolute;
+    border-radius: 30px;
+    margin-left: 16rem;
+    margin-top: 10rem;
+
+}
+
+.logo6 {
+       position: absolute;
+    border-radius: 30px;
+    margin-left: 16rem;
+    margin-top: 31rem;
+}
+
+.logo7 {
+      position: absolute;
+    border-radius: 30px;
+    margin-left: 37rem;
+    margin-top: 31rem;
+
+}
+
+.logo8 {
+     position: absolute;
+    border-radius: 30px;
+    margin-left: 58rem;
+    margin-top: 31rem;
+}
+
+.logo9 {
+      position: absolute;
+    border-radius: 30px;
+    margin-left: 58rem;
+    margin-top: 52rem;
+
+}
+
+.logo10 {
+      position: absolute;
+    border-radius: 30px;
+    margin-left: 37rem;
+    margin-top: 52rem;
+
+}
+
+.logo11 {
+    position: absolute;
+    border-radius: 30px;
+    margin-left: 16rem;
+    margin-top: 52rem;
+
+
+}
+
+.logo12 {
+      position: absolute;
+    border-radius: 30px;
+    margin-left: 16rem;
+    margin-top: 73rem;
+
+}
+
+.logo13 {
+          position: absolute;
+    border-radius: 30px;
+    margin-left: 37rem;
+    margin-top: 73rem;
+
+}
+
+
+.logo14 {
+      position: absolute;
+    border-radius: 30px;
+    margin-left: 58rem;
+    margin-top: 73rem;
+
+}
+
+.backs {
+    color: white;
+    position: absolute;
+    margin-left: 41.6rem;
+    margin-top: 95rem;
+}
+
+.logo15 {
+    position: absolute;
+    border-radius: 30px;
+    margin-left: 16rem;
+    margin-top: 102rem;
+
+}
+
+.logo16 {
+     position: absolute;
+    border-radius: 30px;
+    margin-left: 37.6rem;
+    margin-top: 102rem;
+
+
+}
+
+.logo17 {
+    position: absolute;
+    border-radius: 30px;
+    margin-left: 16rem;
+    margin-top: 123rem;
+}
+
+.logo18 {
+      position: absolute;
+    border-radius: 30px;
+    margin-left: 37.6rem;
+    margin-top: 123rem;
+}
+
+.posterS {
+     color: white;
+    position: absolute;
+    margin-left: 39.4rem;
+    margin-top: 144rem;
+}
+
+.logo19 {
+       position: absolute;
+    border-radius: 30px;
+    margin-left: 37.6rem;
+    margin-top: 151rem;
+}
+
+.logo20 {
+     position: absolute;
+    border-radius: 30px;
+    margin-left: 58rem;
+    margin-top: 151rem;
+}
+
+.logo21 {
+     position: absolute;
+    border-radius: 30px;
+    margin-left: 25rem;
+    margin-top: 179rem;
+}
+
+.logo22 {
+         position: absolute;
+    border-radius: 30px;
+    margin-left: 17rem;
+    margin-top: 151rem;
+}
+
+.logo23 {
+          position: absolute;
+    border-radius: 30px;
+    margin-left: 48.1rem;
+    margin-top: 179rem;
+}
+
+@media (max-width: 1024px ) {
+ body {
+    overflow-x: hidden;
+ }
+
+ 
+ .contact {
+    inset: 0;
+    margin-left: -25rem;
+    width: 1px;
+ }
+ .logo2 {
+    inset: 0;
+    width: 110px;
+    height: 110px;
+    margin-left: 10rem;
+    margin-top: 13rem;
+ }
+ 
+ .logo3 {
+    inset: 0;
+    width: 110px;
+    height: 110px;
+    margin-left: 19rem;
+    margin-top: 13rem;
+ }
+
+ .logo5 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+    margin-left: 1rem;
+    margin-top: 13rem;
+ }
+ 
+ .logotybe {
+    inset: 0;
+    margin-left: 8.5rem;
+    margin-top: 4rem;
+    font-size: 13px;
+    
+ }
+
+ .logo6 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+    margin-left: 1rem;
+    margin-top: 21.6rem;
+ }
+
+ .logo7 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+      margin-left: 19rem;
+    margin-top:  18.5rem;
+    margin-top: 21.6rem;
+ }
+
+ .logo8 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+       margin-left: 10rem;
+    margin-top: 21.6rem;
+ }
+
+ .logo9 {
+    inset: 0;
+    width: 110px;
+    height: 110px;
+        margin-left: 10rem;
+    margin-top: 30rem;
+    
+ }
+ 
+.logo10 {
+    inset: 0;
+    width: 110px;
+    height: 110px;
+      margin-left: 19rem;
+    margin-top: 30rem;
+}
+
+.logo11 {
+    inset: 0;
+    width: 110px;
+    height: 110px;
+      margin-left: 1rem;
+    margin-top: 30rem;
+}
+
+.logo12 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+            margin-left: 10rem;
+    margin-top: 38.2rem;
+}
+
+.logo13 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+       margin-left: 19rem;
+    margin-top: 38.2rem;
+}
+
+.logo14 {
+     inset: 0;
+    width: 110px;
+    height: 110px;
+          margin-left: 1rem;
+    margin-top: 38.2rem;
+}
+
+.backs {
+    font-size: 13px;
+    margin-left: 9rem;
+    margin-top: 40.5rem;
+}
+
+.logo15 {
+    inset: 0;
+    width: 130px;
+    height: 130px;
+    margin-left: 1rem;
+    margin-top: 51rem;
+}
+
+.logo16 {
+    inset: 0;
+    width: 260px;
+    height: 130px;
+      margin-left: 10rem;
+    margin-top: 51rem;
+}
+
+.logo17 {
+    inset: 0;
+    width: 130px;
+    height: 130px;
+     margin-left: 1rem;
+    margin-top: 60.3rem;
+}
+
+.logo18 {
+    inset: 0;
+    width: 260px;
+    height: 130px;
+  margin-left: 10rem;
+    margin-top: 60.3rem;
+}
+
+.posterS {
+        inset: 0;
+    margin-left: 7.5rem;
+    margin-top: 69rem;
+    font-size: 13px;
+}
+
+.logo19 {
+    width: 170px;
+    height: 220px;
+      margin-left: 14rem;
+    margin-top: 68.5rem;
+}
+
+.logo20 {
+        width: 170px;
+    height: 220px;
+      margin-left: 1.5rem;
+    margin-top: 68.5rem;
+}
+
+.logo23 {
+          width: 170px;
+    height: 220px;
+      margin-left: 1.5rem;
+    margin-top: 84rem;
+}
+
+.logo22 {
+        width: 170px;
+    height: 220px;
+      margin-left: 14rem;
+    margin-top: 84rem;
+}
+
+.logo21 {
+            width: 170px;
+    height: 220px;
+      margin-left: 8rem;
+    margin-top: 99.5rem;
+}
+
+body {
+    max-width: 100%;
+    position: relative;
+}
+
+.zxz {
+    margin-left: -3.5rem;
+    margin-top: 100rem;
+    width: -500px;
+    display: flex;
+}
+
+}
+
