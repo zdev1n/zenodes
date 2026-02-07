@@ -37,7 +37,7 @@ body {
    margin-left: -26rem;
 }
 @font-face {
-    src: url(/StretchPro.otf);
+    src: url('/StretchPro.otf'); format('otf')
     font-family: font1;
 }
 
@@ -496,4 +496,5 @@ body {
 }
 
 }
+
 
