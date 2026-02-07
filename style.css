@@ -19,7 +19,7 @@
     position: relative;
 }
 body {
-    background-image: url('.../we/123.png');
+    background-image: url('123.png');
 }
 
 
@@ -290,12 +290,6 @@ hr {
 }
 
 @media (max-width: 1024px ) {
- body {
-    overflow-x: hidden;
-    background-image: url('../we/123.png');
-    background-size: cover;
-    background-position: center;
- }
 
  
  .contact {
@@ -502,5 +496,4 @@ body {
 }
 
 }
-
 
