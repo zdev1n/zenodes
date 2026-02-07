@@ -292,6 +292,7 @@ hr {
 @media (max-width: 1024px ) {
  body {
     overflow-x: hidden;
+    background-image: url('../we/123.png');
  }
 
  
