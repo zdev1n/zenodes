@@ -19,7 +19,7 @@
     position: relative;
 }
 body {
-    background-image: url('../we/123.png');
+    background-image: url('.../we/123.png');
 }
 
 
@@ -293,6 +293,8 @@ hr {
  body {
     overflow-x: hidden;
     background-image: url('../we/123.png');
+    background-size: cover;
+    background-position: center;
  }
 
  
@@ -500,4 +502,5 @@ body {
 }
 
 }
+
 
